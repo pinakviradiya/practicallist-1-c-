@@ -6,7 +6,8 @@ int main()
  {
 
   int first_number, second_number, sum;
-    
+  cout <<"Pinak viradiya";
+  cout <<"220130318014";
   cout <<"Enter first integers :: ";
   cin >> first_number;
   cout<<"Enter second integers ::"; 
