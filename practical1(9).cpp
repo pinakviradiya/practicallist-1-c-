@@ -2,9 +2,11 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
   int n;
-
+    cout<< "Viradiya pinak";
+    cout<< "220130318014";
   cout << "Enter an integer: ";
   cin >> n;
 
