@@ -4,6 +4,8 @@ using namespace std;
 int main()
 {
     int num, rev=0, rem, temp;
+    cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout<<"Enter the Number :: ";
     cin>>num;
     temp = num;
