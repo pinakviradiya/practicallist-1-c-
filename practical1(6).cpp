@@ -4,14 +4,12 @@ using namespace std;
  
 int main()
  {
-    
+        cout<< "Viradiya pinak";
+        cout<< "220130318014";
 	cout << "Size of a Character (char) = " << sizeof(char) << " bytes" << endl;
-	
-    cout << "Size of an Integer (int) = " << sizeof(int) << "  bytes" << endl;
-    
-    cout << "Size of a Floating Point (float) = " << sizeof(float) << " bytes" << endl;
-    
-    cout << "Size of Double (double) = " << sizeof(double) << "  bytes" << endl;
+       cout << "Size of an Integer (int) = " << sizeof(int) << "  bytes" << endl;
+       cout << "Size of a Floating Point (float) = " << sizeof(float) << " bytes" << endl;
+       cout << "Size of Double (double) = " << sizeof(double) << "  bytes" << endl;
 
     return 0;
 }
