@@ -4,7 +4,8 @@ using namespace std;
 int main()
 {
  string name;
-	
+    cout<< "Viradiya pinak";
+    cout<< "220130318014";
 cout << "Enter the name :: ";
 cin >> name;
 	
