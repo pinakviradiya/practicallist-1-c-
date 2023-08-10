@@ -8,6 +8,8 @@ int main() {
 
     float principal, rate, time, result;
 
+     cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout << "Enter principal : ";
     cin >> principal;
 
