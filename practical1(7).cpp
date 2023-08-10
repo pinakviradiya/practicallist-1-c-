@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
    float p, r, t, si;
+    cout<< "Viradiya pinak";
+    cout<< "220130318014";
    cout<<"Enter Principle Amount: ";
    cin>>p;
    cout<<"Enter Rate of Interest: ";
