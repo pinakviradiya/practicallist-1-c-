@@ -7,7 +7,8 @@ int main()
     int p, q;
     int sum, sub, mul, mod;
     float div;
-    
+    cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout<< "Enter one numbers :: ";
     cin >> p;
     cout<<"Enter second number ::";
