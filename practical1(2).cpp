@@ -10,13 +10,14 @@ class Temperature
 		celsius=(fahren-32)* 5.0/9.0;
 		return celsius;
 	}
-	
 };
 int main()
 {
 	
 	Temperature t;
 	float f;
+	 cout<< "Viradiya pinak";
+         cout<< "220130318014";
 	cout<<"Enter Temperature in Fahrenheit=";
 	cin>>f;
 	
