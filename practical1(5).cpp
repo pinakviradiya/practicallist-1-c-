@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
 	int num1, num2, temp;
+	 cout<< "Viradiya pinak";
+         cout<< "220130318014";
 	cout << "  1st number : ";
 	cin >> num1 ;
 	cout << "  2nd number : ";
