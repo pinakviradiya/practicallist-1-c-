@@ -6,7 +6,8 @@ int main()
  {
     
     double n1, n2, n3;
-
+    cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout << "Enter one numbers: ";
     cin >> n1;
     cout << "Enter second numbers: ";
