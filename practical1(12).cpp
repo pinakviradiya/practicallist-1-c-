@@ -5,7 +5,8 @@ int main()
 {
 
     int n;
-
+     cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout << "Enter a Multiplication Number :: ";
     cin >> n;
 
