@@ -3,6 +3,8 @@
 int main()
 {
 char alphabat;
+cout<< "Viradiya pinak";
+cout<< "220130318014";
 cout<<"Enter an alphabat:";
 cin>>alphabat;
 if(alpha=='a')
