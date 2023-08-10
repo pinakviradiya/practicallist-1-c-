@@ -5,6 +5,8 @@ using namespace std;
 int main()
  {
     int num, originalNum, remainder, result = 0;
+     cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout << "Enter a three-digit integer: ";
     cin >> num;
     originalNum = num;
