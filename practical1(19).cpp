@@ -6,7 +6,8 @@ using namespace std;
 int main()
 {
 	int n1, n2, x, sum,sub,mul,div;
-
+	 cout<< "Viradiya pinak";
+        cout<< "220130318014";
 	cout << "Enter the options as follows: \n1.Addition \n2.Subtraction \n3.Multiplication \n4.Division";
 	cout << "\nYour Option :--> ";
 	cin >> x;
