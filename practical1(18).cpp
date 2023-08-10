@@ -6,7 +6,8 @@ int main()
 {
     int exponent;
     float base, result = 1;
-
+     cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout << "Enter the power of a number ::  ";
     cin >> base >> exponent;
     
