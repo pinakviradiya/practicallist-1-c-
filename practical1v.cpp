@@ -6,10 +6,10 @@ int main()
 {
     int arr[10]; 
     int i, num;
- 
+     cout<< "Viradiya pinak";
+    cout<< "220130318014";
     cout<<"Enter size of the array: ";
     cin>>num;
- 
     cout<<"Enter elements in array: ";
     for(i=0; i<num; i++)
     {
